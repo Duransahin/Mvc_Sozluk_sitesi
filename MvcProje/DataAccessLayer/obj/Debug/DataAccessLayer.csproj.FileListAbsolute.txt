@@ -23,5 +23,7 @@ C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAcces
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_status.resources
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_status.resources
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_class.resources
-C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_content.resources
-C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_content1.resources
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contact_add_date1.resources
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table1.resources

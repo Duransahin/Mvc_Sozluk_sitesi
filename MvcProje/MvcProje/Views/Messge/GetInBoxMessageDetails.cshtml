@@ -1,4 +1,5 @@
-﻿@model EntityLayer.Concrete.Message
+﻿
+@model EntityLayer.Concrete.Message
 
 @{
     ViewBag.Title = "GetInBoxMessageDetails";
@@ -24,6 +25,7 @@
     <section class="content">
         <div class="container-fluid">
             <div class="row">
+             
                 @Html.Action("ContactPartial", "Contact")
                 <!-- /.col -->
                 <div class="col-md-9">
@@ -38,6 +40,7 @@
                         <!-- /.card-header -->
 
                         <div class="card-body p-0">
+
                             <div class="mailbox-read-info">
 
                                 <h5>Konu:@Html.DisplayFor(x => x.Subject)</h5>

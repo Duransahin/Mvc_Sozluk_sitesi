@@ -17,7 +17,7 @@ namespace EntityLayer.Concrete
         public string ReceiverMail { get; set; }
         [StringLength(50)]
         public string Subject { get; set; }
-        //[StringLength(100)]
+
         public string MessageContent { get; set; }
 
         public DateTime MessageDate { get; set; } 

@@ -25,6 +25,7 @@ namespace MvcProje.Controllers
         [HttpGet]
         public ActionResult AddAbout()
         {
+
             return View();
         }
         

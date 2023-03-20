@@ -17,6 +17,9 @@ namespace MvcProje.Controllers
     {
         // GET: Category
         CategoryManger cm = new CategoryManger(new EfCategoryDal());
+
+
+        
         public ActionResult Index()
         {
             return View();

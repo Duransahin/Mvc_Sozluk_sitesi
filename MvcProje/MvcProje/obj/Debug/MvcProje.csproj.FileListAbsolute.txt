@@ -188,3 +188,7 @@ C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\System.Xml.XPath.dll
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\System.Xml.XPath.XDocument.dll
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\FluentValidation.dll
 C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\FluentValidation.xml
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\PagedList.dll
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\PagedList.Mvc.dll
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\PagedList.xml
+C:\Users\duran\Desktop\Projeler\mvc\MvcProje\MvcProje\bin\PagedList.Mvc.xml
